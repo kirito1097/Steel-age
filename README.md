@@ -25,7 +25,7 @@ This mod is ideal for players who enjoy:
 2. Go to **Mods**
 3. Select **Import Mod**
 4. Choose **Import from GitHub**
-5. Paste this link:
+5. Paste this link:https://github.com/kirito1097/Steel-age.git
 
 
 
@@ -76,7 +76,7 @@ Steel Age поощряет сложную логистику и продуман
 2. Перейди в **Моды**
 3. Нажми **Импортировать мод**
 4. Выбери **Импорт из GitHub**
-5. Вставь ссылку:
+5. Вставь ссылку:https://github.com/kirito1097/Steel-age.git
 
 
 
