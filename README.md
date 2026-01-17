@@ -1,102 +1,43 @@
-# Steel-age
-Add new content to mindusty
-# Steel Age
-
-**Steel Age** is a Mindustry mod focused on steel as a key industrial resource.  
-It expands mid-to-late game progression by adding new production chains, generators, and industrial blocks.
-
-## 🔩 Features
-- Steel as a core material for advanced industry
-- New factories and processing blocks
-- Improved generators with higher efficiency
-- Industrial-themed blocks with symmetrical designs
-- Designed to feel vanilla-friendly
-
-## ⚙️ Gameplay Focus
-Steel Age encourages more complex logistics and planning by introducing multi-step steel production and advanced infrastructure.
-
-This mod is ideal for players who enjoy:
-- Industrial-style gameplay
-- Extended tech progression
-- Optimizing resource chains
-
-## 📦 Installation
-1. Open **Mindustry**
-2. Go to **Mods**
-3. Select **Import Mod**
-4. Choose **Import from GitHub**
-5. Paste this link:https://github.com/kirito1097/Steel-age.git
+There are several zip archives with the mod in this repository.
+Because of this, import by link in Mindustry does not work and the game will show an error.
+The mod must be installed using a zip file.
+Choose one required version.
+How to download the mod
+Open this repository
+Find the required zip archive with the mod
+Click on the file
+Click the Download button
+Wait for the download to finish
+How to install the mod in Mindustry
+Launch Mindustry
+Open the Mods section
+Click Import Mod
+Choose Import File
+Select the downloaded zip archive
+Confirm the import
+Restart the game if the mod does not appear immediately
 
 
 
-## 🧩 Compatibility
-- **Mindustry version:** v146+
-- Compatible with most content mods
-
-## 🚧 Development Status
-The mod is actively developed.  
-Expect balance changes, new content, and visual improvements.
-
-## 📌 Planned Content
-- Additional steel-based blocks
-- Advanced industrial and logic systems
-- More optimized production chains
-
-## 👤 Author
-**Kirito_kun**
-
-## 📝 License
-Free to use and modify.  
-Credit is appreciated.
-
----
-
-# Steel Age (Русский)
-
-**Steel Age** — это мод для Mindustry, в котором сталь является ключевым индустриальным ресурсом.  
-Мод расширяет среднюю и позднюю стадию игры, добавляя новые производственные цепочки, генераторы и заводы.
-
-## 🔩 Особенности
-- Сталь как основа продвинутой промышленности
-- Новые фабрики и перерабатывающие блоки
-- Улучшенные генераторы с высокой эффективностью
-- Индустриальный стиль и симметричный дизайн блоков
-- Баланс, близкий к ванильному
-
-## ⚙️ Геймплей
-Steel Age поощряет сложную логистику и продуманное планирование, добавляя многоэтапное производство стали и развитую инфраструктуру.
-
-Мод подойдёт игрокам, которые любят:
-- Индустриальный стиль игры
-- Углублённый прогресс
-- Оптимизацию производственных цепей
-
-## 📦 Установка
-1. Открой **Mindustry**
-2. Перейди в **Моды**
-3. Нажми **Импортировать мод**
-4. Выбери **Импорт из GitHub**
-5. Вставь ссылку:https://github.com/kirito1097/Steel-age.git
 
 
 
-## 🧩 Совместимость
-- **Версия Mindustry:** v146+
-- Совместим с большинством контентных модов
+В репозитории находится несколько zip архивов с модом.
+Из-за этого импорт по ссылке в Mindustry не работает и игра будет выдавать ошибку.
+Мод нужно устанавливать через zip файл.
 
-## 🚧 Статус разработки
-Мод находится в активной разработке.  
-Ожидаются изменения баланса, новый контент и улучшения визуала.
-
-## 📌 Планы
-- Новые стальные блоки
-- Продвинутые индустриальные и логические системы
-- Более эффективные производственные цепочки
-
-## 👤 Автор
-**Kirito_kun**
-
-## 📝 Лицензия
-Свободен для использования и модификации.  
-Указание автора приветствуется.
-
+Выберите одну нужную версию.
+Как скачать мод
+Зайдите в этот репозиторий
+Найдите нужный zip архив с модом
+Нажмите на файл
+Нажмите кнопку Download
+Дождитесь завершения загрузки
+Как установить мод в Mindustry
+Запустите Mindustry
+Зайдите в раздел Модификации
+Нажмите Импортировать мод
+Выберите Импортировать файл
+Укажите скачанный zip архив
+Подтвердите импорт
+Перезапустите игру если мод не появился сразу
